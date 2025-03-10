@@ -1,6 +1,5 @@
 ﻿#include <iostream>
 #include <random>
-#include <thread>
 #include <vector>
 #include <iomanip>
 #include <limits>
